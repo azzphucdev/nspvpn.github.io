@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "message": "Thành công!",
+  "data": {
+    "_id": "670a3806f6f637711ef47125",
+    "key_tool": "AzzPhucMod",
+    "sodu": 999999999,
+    "status": "on",
+    "createdAt": "2024-10-12T08:49:10.930Z",
+    "updatedAt": "2024-10-14T11:26:05.094Z",
+    "__v": 0
+  }
+}

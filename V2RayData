@@ -1,0 +1,68 @@
+[
+ {
+   "URL": "https://hack4g.vn/",
+   "Type": "v2board",
+   "NhomTelegram":"https://t.me/AZZPHUCVPN",
+   "NhomZalo":"https://zalo.me/g/vfvtky822",
+   "Info":"HACK4G.VN",
+   "API1":"api/v1/passport/auth/login",
+   "API2":"api/v1/user/getSubscribe"
+  }, {
+   "URL": "https://4g.tintuc247.top/",
+   "Type": "v2board",
+   "NhomTelegram":"https://t.me/tungconychat",
+   "NhomZalo":"https://zalo.me/g/uhqhfj689",
+   "Info":"HTPN.VN",
+   "API1":"api/v1/passport/auth/login",
+   "API2":"api/v1/user/getSubscribe"
+  },{
+   "URL": "https://azzphuc.pro/",
+   "Type": "nflash",
+   "NhomTelegram":"https://t.me/azzphucpro2",
+   "NhomZalo":"https://zalo.me/g/kdnkdw274",
+   "Info":"AZZPHUC.PRO",
+   "API1":"api/v1/passport/auth/login",
+   "API2":"api/v1/user/getSubscribe"
+  },{
+   "URL": "https://zingfast.vn/",
+   "Type": "nflash",
+   "NhomTelegram":"https://t.me/tungconychat",
+   "NhomZalo":"https://zalo.me/g/uhqhfj689",
+   "Info":"zingfast Private Networks",
+   "API1":"api/v1/passport/auth/login",
+   "API2":"api/v1/user/getSubscribe"
+  },{
+   "URL": "https://zenpn.com/",
+   "Type": "nflash",
+   "NhomTelegram":"https://t.me/tungconychat",
+   "NhomZalo":"https://zalo.me/g/uhqhfj689",
+   "Info":"ZENPN",
+   "API1":"api/v1/passport/auth/login",
+   "API2":"api/v1/user/getSubscribe"
+  },{
+   "URL": "https://anhtai4g.me/",
+   "Type": "nflash",
+   "NhomTelegram":"https://t.me/tungconychat",
+   "NhomZalo":"https://zalo.me/g/uhqhfj689",
+   "Info":"ANHTAI4G.ME",
+   "API1":"api/v1/passport/auth/login",
+   "API2":"api/v1/user/getSubscribe"
+  } , {
+   "URL": "https://my.viefast.vn/",
+   "Type": "v2board",
+   "NhomTelegram":"https://t.me/AZZPHUCVPN",
+   "NhomZalo":"https://zalo.me/g/vfvtky822",
+   "Info":"VIEFAST MASTER",
+   "API1":"api/v1/passport/auth/login",
+   "API2":"api/v1/user/getSubscribe"
+  },{
+   "URL": "https://vip.viefast.vn/",
+   "Type": "v2board",
+   "NhomTelegram":"https://t.me/AZZPHUCVPN",
+   "NhomZalo":"https://zalo.me/g/vfvtky822",
+   "Info":"VIEFAST ROYAL",
+   "API1":"api/v1/passport/auth/login",
+   "API2":"api/v1/user/getSubscribe"
+  }
+ ]
+1

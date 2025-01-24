@@ -1,0 +1,12 @@
+{
+ "Allow50H": "4584154069a601f9dfc7631d5e8f79e4@cda37f064e7851ede953f490095f8b5f@43036fe36ebefd32bb4b69cc16a6d658@7c5c7c61c8754bf03cdea1542494fa29",
+ "EnableBannerAds": true,
+ "EnableInterstitialAds": true,
+ "EnableOpenAppAds": true,
+ "EnableRewardAdsPro": true,
+ "Messenge": "Bảo Trì Quảng Cáo",
+ "TimeLayoutOK": true,
+ "TimeLimit": 864000000,
+ "isLimitedTime": false,
+ "isUnlimitedModeActive": false
+}
