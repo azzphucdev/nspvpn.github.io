@@ -2,7 +2,7 @@
 "Version": "1.0.0",
 "Build": 20,
 "MacOS_Build": 17,
-"Android_Build": 19,
+"Android_Build": 26,
 "IOS_Build": 19,
 "Experiment": 1,
 "ExperimentNote": "Thử Nghiệm 10/6/2025",
@@ -11,3 +11,4 @@
 "Notes":" - Tối Ưu Hóa Và Sửa Lỗi...<br> - Thông Tin Cập Nhật Tại Nhóm Telegram @azzphucpro",
 "isCancel": true
 }
+
