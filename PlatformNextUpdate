@@ -1,6 +1,6 @@
 {
 "Version": "1.0.0",
-"Build": 80,
+"Build": 90,
 "MacOS_Build": 89,
 "Android_Build": 89,
 "IOS_Build": 89,
@@ -11,5 +11,6 @@
 "Notes":" - Tối Ưu Hóa Và Sửa Lỗi...<br> - Thông Tin Cập Nhật Tại Nhóm Telegram @azzphucpro",
 "isCancel": true
 }
+
 
 
