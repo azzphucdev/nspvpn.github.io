@@ -1,9 +1,9 @@
 {
 "Version": "1.0.0",
 "Build": 90,
-"MacOS_Build": 89,
-"Android_Build": 89,
-"IOS_Build": 89,
+"MacOS_Build": 93,
+"Android_Build": 93,
+"IOS_Build": 93,
 "Experiment": 1,
 "ExperimentNote": "Thử Nghiệm 10/6/2025",
 "ExperimentDownload": "https://download.platformnext.dev",
@@ -11,6 +11,7 @@
 "Notes":" - Tối Ưu Hóa Và Sửa Lỗi...<br> - Thông Tin Cập Nhật Tại Nhóm Telegram @azzphucpro",
 "isCancel": true
 }
+
 
 
 
