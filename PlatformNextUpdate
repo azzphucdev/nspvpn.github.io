@@ -1,9 +1,9 @@
 {
-"Version": "1.0.0",
-"Build": 131,
-"MacOS_Build": 131,
-"Android_Build": 133,
-"IOS_Build": 133,
+"Version": "1.0.6",
+"Build": 147,
+"MacOS_Build": 148,
+"Android_Build": 148,
+"IOS_Build": 148,
 "Experiment": 1,
 "ExperimentNote": "Thử Nghiệm 10/6/2025",
 "ExperimentDownload": "https://download.platformnext.dev",
@@ -11,6 +11,7 @@
 "Notes":" - Tối Ưu Hóa Và Sửa Lỗi...<br> - Thông Tin Cập Nhật Tại Nhóm Telegram @azzphucpro",
 "isCancel": true
 }
+
 
 
 
